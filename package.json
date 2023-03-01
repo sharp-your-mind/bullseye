@@ -1,0 +1,27 @@
+{
+  "name": "bullseye",
+  "version": "1.0.1",
+  "description": "A tool to help you select lottery ticket number ( double color ball)",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weizixuanDavid/bullseye.git"
+  },
+  "keywords": [
+    "lottery",
+    "double-color-ball"
+  ],
+  "author": "DavidW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weizixuanDavid/bullseye/issues"
+  },
+  "homepage": "https://github.com/weizixuanDavid/bullseye#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
